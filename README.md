@@ -4,10 +4,6 @@
 A modern React-based frontend interface simulating a Lexi-style legal assistant. Users can submit a legal query and view a generated answer with clickable citations that link to PDF evidence – mimicking how Lexi traces AI legal answers to real documents.
 
 
-
-## 🚀 Live Demo
-
-[Link to Hosted Project](#) *(Add your Vercel/Netlify URL here if hosted)*
 ## ✨ Features
 
 - ChatGPT-style legal assistant UI
@@ -19,7 +15,7 @@ A modern React-based frontend interface simulating a Lexi-style legal assistant.
 - Built with Tailwind CSS for clean styling
 ## 🖼️ UI Preview
 
-![Screenshot](./screenshot.png) *(Add your screenshot image here)*
+![Screenshot](./img1.png) *(Add your screenshot image here)*
 ## 🛠️ Tech Stack
 
 - **React.js** – Frontend framework
